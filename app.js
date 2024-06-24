@@ -1,7 +1,7 @@
 // ! Turkish: Denemek.
 // ! English: To try.
 
-let value
+let value = Number
 
 alert("Hello, welcome.");
 
@@ -20,5 +20,5 @@ if(value = 2){
 }
 
 if(value = 3){
-    alert("The value you entered");
+    alert("The value you entered 3");
 }
