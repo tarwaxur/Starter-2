@@ -22,3 +22,6 @@ if(value = 2){
 if(value = 3){
     alert("The value you entered 3");
 }
+
+// ! Turkish: Dikkat edin, kodda hata var.
+// ! English: Be careful, there is an error in the code.
